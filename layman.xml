@@ -1,0 +1,13 @@
+<repositories version="1.1" encoding="unicode">
+  <repo quality="experimental" priority="1">
+    <name>splay</name>
+    <description>speedie's gentoo overlay</description>
+    <homepage>https://github.com/spoverlay/splay</homepage>
+    <irc>#ff Libera</irc>
+    <owner>
+      <email>speedie@duck.com</email>
+      <name>speedie</name>
+    </owner>
+    <source type="git">https://github.com/spoverlay/splay.git</source>
+  </repo>
+</repositories>
