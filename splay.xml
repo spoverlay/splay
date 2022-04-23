@@ -8,6 +8,6 @@
       <email>speedie@duck.com</email>
       <name>speedie</name>
     </owner>
-    <source type="git">https://github.com/spoverlay/splay</source>
+    <source type="git">https://github.com/spoverlay/splay.git</source>
   </repo>
 </repositories>
