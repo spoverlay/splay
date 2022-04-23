@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
-<repositories xmlns="" version="1.0">
-    <repo quality="experimental" status="unofficial">
-	    <name>splay</name>
-		<description>speedie's Gentoo Linux overlay.</description>
-		<homepage>https://github.com/spoverlay/splay</homepage>
-		<email>speedie@duck.com</email>
-		<source type="git">https://github.com/spoverlay/splay.git</source>
-    </repo>
+<repositories version="1.1" encoding="unicode">
+  <repo quality="experimental" priority="50">
+    <name>splay</name>
+    <description>speedie's gentoo linux overlay</description>
+    <homepage>https://github.com/spoverlay/splay</homepage>
+    <owner>
+      <email>speedie@duck.com</email>
+      <name>speedie</name>
+    </owner>
+    <source type="git">https://github.com/spoverlay/splay.git</source>
+  </repo>
 </repositories>
